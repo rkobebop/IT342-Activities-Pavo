@@ -1,4 +1,19 @@
 
+# IT342-G7-GitActivity
+
+
+## Name: Rommel John Pobadora  
+## Course & Year: BSIT - 3
+
+
+### Quote
+> "Not all those who wander are lost."
+
+
+
+4554657658678976977
+
+
 # IT342-G7-GitActivitygit 
 
 Name: Abram John R. Hortezano  
@@ -95,3 +110,6 @@ Name: Raven King O. Pavo
 Course & Year: BSIT-3
 
 "*Insert Quote Here*"
+
+
+
