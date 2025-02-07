@@ -4,6 +4,15 @@ Course&Year: BSIT-3
 
 I'm gonna be rich. 
 
+
+
+## Name: John Wayne M. Largo
+**Course & Year:** BSIT-3
+
+### About Me
+> "Sleep is my superpower—recharging for another day of possibilities."
+
+
 Name: Yoshinori L. Kyono Jr.  
 Course&Year: BSIT - 3
 
@@ -20,3 +29,4 @@ Name: Raven King O. Pavo
 Course & Year: BSIT-3
 
 "*Insert Quote Here*"
+
