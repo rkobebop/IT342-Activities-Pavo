@@ -6,6 +6,28 @@ I am the CEO of Wanderways
 
 you can never step on the same river twice because the course of the river changes
 
+
+Name: Julio Miguel Dumaguing  
+Course&Year: BSIT-3  
+  
+"Through hardwork and dedication you can do anything."
+
+
+Name: Cg M. Fernandez
+Course&Year: BSIT 3  
+
+I want to be a rich millionare. 
+***
+"I think therefore, I am"
+***
+
+## Name: John Wayne M. Largo
+**Course & Year:** BSIT-3
+
+### About Me
+> "Sleep is my superpower—recharging for another day of possibilities."
+
+
 Name: Yoshinori L. Kyono Jr.  
 Course&Year: BSIT - 3
 
@@ -22,3 +44,4 @@ Name: Raven King O. Pavo
 Course & Year: BSIT-3
 
 "*Insert Quote Here*"
+
