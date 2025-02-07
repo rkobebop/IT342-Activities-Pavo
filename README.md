@@ -9,6 +9,13 @@ One of my traits is that once I start something, I want to complete it as quickl
 I also aspire to become a game developer in the future.git 
 
 # IT342-G7-GitActivity
+Name: Jaevie V. Bayona
+Course&Year: BSIT-3
+
+I am the CEO of Wanderways
+
+you can never step on the same river twice because the course of the river changes
+
 Name: Vince Kimlo Guevarra Tan
 Course&Year: BSIT-3
 
