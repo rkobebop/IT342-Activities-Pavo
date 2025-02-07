@@ -8,6 +8,4 @@
 ### Quote
 > "Not all those who wander are lost."
 
-
-abcd
-gfdhgfdhfdhfghfg
+KAYATA ANI OY
