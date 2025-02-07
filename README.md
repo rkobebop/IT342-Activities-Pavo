@@ -2,6 +2,10 @@
 
 
 
+Name: Keith Ruezyl P. Tagarao  
+Course&Year: BSIT-3  
+teach me how to dougie and i will teach you how to love me
+
 Name: LACANGLACANG, Nick Carter  
 Course & Year: Bachelor of Science in Information Technology - Third Year  
   
