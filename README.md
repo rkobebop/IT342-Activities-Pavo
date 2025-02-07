@@ -1,5 +1,7 @@
 # IT342-G7-GitActivity
 
+
+
 Name: LACANGLACANG, Nick Carter  
 Course & Year: Bachelor of Science in Information Technology - Third Year  
   
