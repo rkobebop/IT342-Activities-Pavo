@@ -9,6 +9,12 @@ One of my traits is that once I start something, I want to complete it as quickl
 I also aspire to become a game developer in the future.git 
 
 # IT342-G7-GitActivity
+
+Name: Jierelle Jane S. Ravanes  
+Course&Year: BSIT-3
+
+"Don't just exist, Live"
+
 Name: Jaevie V. Bayona
 Course&Year: BSIT-3
 
