@@ -1,9 +1,39 @@
 # IT342-G7-GitActivity
+Name: Vince Kimlo Guevarra Tan
+Course&Year: BSIT-3
+
+I'm gonna be rich. 
+
+
+
+Name: Allen Luis S. Mangoroban
+Course&Year: BSIT-3
+
 
 Name: John David A. Calimpong  
 Course & Year: BSIT - 3
 
 Never give up
+
+
+I am will learn more to go to my own path
+***
+So Remember
+***
+
+Name: Julio Miguel Dumaguing  
+Course&Year: BSIT-3  
+  
+"Through hardwork and dedication you can do anything."
+
+
+Name: Cg M. Fernandez
+Course&Year: BSIT 3  
+
+I want to be a rich millionare. 
+***
+"I think therefore, I am"
+***
 
 
 ## Name: John Wayne M. Largo
