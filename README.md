@@ -1,3 +1,25 @@
+# IT342-G7-GitActivity
+
+Name: Louie James F. Carbungco  
+Course&Year: BSIT-2
+
+"Shared sorrow is half the sorrow; shared joy is double the joy."
+=======
+
+# IT342-G7-GitActivity
+
+
+## Name: Rommel John Pobadora  
+## Course & Year: BSIT - 3
+
+
+### Quote
+> "Not all those who wander are lost."
+
+
+
+4554657658678976977
+
 
 # IT342-G7-GitActivity
 
@@ -5,7 +27,7 @@ Name: Joshua Jamisola
 Course&Year: BSIT-3
 
 I am who I am
-=======
+
 
 # IT342-G7-GitActivitygit 
 
@@ -73,6 +95,13 @@ Course&Year: BSIT - 3
 it is what it is
 ***
 
+Name: Rigel Baltazar  
+Course&Year: BSIT-3  
+  
+  
+"Sometimes... Life is just unfair...."
+
+
 ## Name: John Wayne M. Largo
 **Course & Year:** BSIT-3
 
@@ -96,4 +125,8 @@ Name: Raven King O. Pavo
 Course & Year: BSIT-3
 
 "*Insert Quote Here*"
+
+
+
+
 
