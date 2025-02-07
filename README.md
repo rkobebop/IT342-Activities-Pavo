@@ -1,6 +1,13 @@
 # IT342-G7-GitActivity
 
 
+
+Name: John Gabriel Cañal
+Course&Year: BSIT-3
+
+
+I just do what i do to do what i gotta do 
+=======
 Name: Keith Ruezyl P. Tagarao  
 Course&Year: BSIT-3  
 teach me how to dougie and i will teach you how to love me
@@ -124,6 +131,7 @@ Course&Year: BSIT-3
   
   
 "Sometimes... Life is just unfair...."
+
 
 
 ## Name: John Wayne M. Largo
