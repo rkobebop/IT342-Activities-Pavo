@@ -1,10 +1,15 @@
 # IT342-G7-GitActivity
 
+Name: Francis Nino B. Yap
+Course&Year: BSIT 3
+
+I am genderly challenged
+
 Name: Louie James F. Carbungco  
 Course&Year: BSIT-2
 
 "Shared sorrow is half the sorrow; shared joy is double the joy."
-=======
+
 
 # IT342-G7-GitActivity
 
