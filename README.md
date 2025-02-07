@@ -1,5 +1,11 @@
 # IT342-G7-GitActivity
 
+
+Name: Kent Jose F. Bausin
+Course&Year: BSIT-3
+
+**In carnage i bloom like a flower in the dawn**
+
 Name: Francis Nino B. Yap
 Course&Year: BSIT 3
 
@@ -130,8 +136,6 @@ Name: Raven King O. Pavo
 Course & Year: BSIT-3
 
 "*Insert Quote Here*"
-
-
 
 
 
