@@ -12,7 +12,7 @@
 
 
 4554657658678976977
-=======
+
 
 # IT342-G7-GitActivitygit 
 
@@ -44,6 +44,14 @@ Course&Year: BSIT-3
 I am will learn more to go to my own path
 ***
 So Remember
+***
+
+ feature-myprofile-cortes
+Name: Mark Joenylle Cortes
+Course&Year : BSIT-4
+
+
+kung kita kag gwapo, klaro nakayng ako 
 ***
 
 Name: Julio Miguel Dumaguing  
@@ -89,5 +97,6 @@ Name: Raven King O. Pavo
 Course & Year: BSIT-3
 
 "*Insert Quote Here*"
+
 
 
