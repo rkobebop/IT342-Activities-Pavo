@@ -5,6 +5,15 @@ Course&Year: BSIT-3
 I'm gonna be rich. 
 
 
+
+Name: Allen Luis S. Mangoroban
+Course&Year: BSIT-3
+
+I am will learn more to go to my own path
+***
+So Remember
+***
+
 Name: Julio Miguel Dumaguing  
 Course&Year: BSIT-3  
   
