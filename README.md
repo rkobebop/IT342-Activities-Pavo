@@ -85,7 +85,7 @@ I am will learn more to go to my own path
 So Remember
 ***
 
- feature-myprofile-cortes
+
 Name: Mark Joenylle Cortes
 Course&Year : BSIT-4
 
