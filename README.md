@@ -6,6 +6,11 @@ I am the CEO of Wanderways
 
 you can never step on the same river twice because the course of the river changes
 
+Name: Vince Kimlo Guevarra Tan
+Course&Year: BSIT-3
+
+I'm gonna be rich. 
+
 
 Name: Julio Miguel Dumaguing  
 Course&Year: BSIT-3  
