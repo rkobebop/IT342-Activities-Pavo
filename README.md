@@ -1,10 +1,18 @@
 # IT342-G7-GitActivity
 
 
+
 Name: LACANGLACANG, Nick Carter  
 Course & Year: Bachelor of Science in Information Technology - Third Year  
   
 <i>"If you fail to plan, you plan to fail."</i>
+
+## Name: John Wayne M. Largo
+**Course & Year:** BSIT-3
+
+### About Me
+> "Sleep is my superpower—recharging for another day of possibilities."
+
 
 Name: Yoshinori L. Kyono Jr.  
 Course&Year: BSIT - 3
