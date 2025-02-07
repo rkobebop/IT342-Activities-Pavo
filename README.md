@@ -38,6 +38,12 @@ I want to be a rich millionare.
 "I think therefore, I am"
 ***
 
+Name: Christian Jay Medallo
+Course&Year: BSIT - 3
+
+it is what it is
+***
+
 ## Name: John Wayne M. Largo
 **Course & Year:** BSIT-3
 
