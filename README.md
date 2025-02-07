@@ -12,30 +12,31 @@ Name: Keith Ruezyl P. Tagarao
 Course&Year: BSIT-3  
 teach me how to dougie and i will teach you how to love me
 
+***
+
 Name: LACANGLACANG, Nick Carter  
 Course & Year: Bachelor of Science in Information Technology - Third Year  
   
 <i>"If you fail to plan, you plan to fail."</i>
 
-
-Name: Kent Jose F. Bausin
+***
+Name: Kent Jose F. Bausin  
 Course&Year: BSIT-3
 
 **In carnage i bloom like a flower in the dawn**
 
-Name: Francis Nino B. Yap
+***
+Name: Francis Nino B. Yap  
 Course&Year: BSIT 3
 
 I am genderly challenged
 
+***
 Name: Louie James F. Carbungco  
 Course&Year: BSIT-2
 
 "Shared sorrow is half the sorrow; shared joy is double the joy."
-
-
-# IT342-G7-GitActivity
-
+***
 
 ## Name: Rommel John Pobadora  
 ## Course & Year: BSIT - 3
@@ -47,17 +48,14 @@ Course&Year: BSIT-2
 
 
 4554657658678976977
-
-
-# IT342-G7-GitActivity
+***
 
 Name: Joshua Jamisola  
 Course&Year: BSIT-3
 
 I am who I am
 
-
-# IT342-G7-GitActivitygit 
+***
 
 Name: Abram John R. Hortezano  
 Course&Year: BSIT-4
@@ -66,7 +64,7 @@ Hello! My name is Abram, a BSIT student. I enjoy playing games, listening to mus
 One of my traits is that once I start something, I want to complete it as quickly as possible. 
 I also aspire to become a game developer in the future.git 
 
-# IT342-G7-GitActivity
+***
 
 Name: Jierelle Jane S. Ravanes  
 Course&Year: BSIT-3
@@ -85,10 +83,10 @@ Course&Year: BSIT-3
 
 I'm gonna be rich. 
 
+***
 
-
-Name: Allen Luis S. Mangoroban
-Course&Year: BSIT-3
+Name: Allen Luis S. Mangoroban  
+Course&Year: BSIT-3  
 
 
 Name: John David A. Calimpong  
@@ -97,14 +95,13 @@ Course & Year: BSIT - 3
 Never give up
 
 
-I am will learn more to go to my own path
-***
-So Remember
+I am will learn more to go to my own path  
+So Remember  
 ***
 
-
-Name: Mark Joenylle Cortes
-Course&Year : BSIT-4
+ feature-myprofile-cortes  
+Name: Mark Joenylle Cortes  
+Course&Year : BSIT-4  
 
 
 kung kita kag gwapo, klaro nakayng ako 
@@ -114,16 +111,15 @@ Name: Julio Miguel Dumaguing
 Course&Year: BSIT-3  
   
 "Through hardwork and dedication you can do anything."
-
+***
 
 Name: Cg M. Fernandez
 Course&Year: BSIT 3  
 
-I want to be a rich millionare. 
-***
-"I think therefore, I am"
-***
+I want to be a rich millionare.  
+"I think therefore, I am"  
 
+***
 Name: Christian Jay Medallo
 Course&Year: BSIT - 3
 
@@ -148,17 +144,23 @@ Course&Year: BSIT-3
 Name: Yoshinori L. Kyono Jr.  
 Course&Year: BSIT - 3
 
-"Fear is the path to the Dark Side. Fear leads to anger, anger leads to hate, hate leads to suffering."
+"Fear is the path to the Dark Side. Fear leads to anger, anger leads to hate, hate leads to suffering."  
+***
 
-
-Name: Seanjames Lacaba C.
+Name: Seanjames Lacaba C.  
 Course&Year: BSIT-3
 
 
-The biggest adventure you can ever take is to live the life of your dreams
-
-Name: Raven King O. Pavo
-Course & Year: BSIT-3
+The biggest adventure you can ever take is to live the life of your dreams  
+***
+Name: Raven King O. Pavo  
+Course & Year: BSIT-3  
 
 "*Insert Quote Here*"
+***
 
+Name: Frederick Revilleza Jr.  
+Course&Year: BSIT-4  
+
+I am who I Am  
+***
