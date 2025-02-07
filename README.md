@@ -5,22 +5,26 @@ Name: Keith Ruezyl P. Tagarao
 Course&Year: BSIT-3  
 teach me how to dougie and i will teach you how to love me
 
+***
+
 Name: LACANGLACANG, Nick Carter  
 Course & Year: Bachelor of Science in Information Technology - Third Year  
   
 <i>"If you fail to plan, you plan to fail."</i>
 
-
-Name: Kent Jose F. Bausin
+***
+Name: Kent Jose F. Bausin  
 Course&Year: BSIT-3
 
 **In carnage i bloom like a flower in the dawn**
 
-Name: Francis Nino B. Yap
+***
+Name: Francis Nino B. Yap  
 Course&Year: BSIT 3
 
 I am genderly challenged
 
+***
 Name: Louie James F. Carbungco  
 Course&Year: BSIT-2
 
