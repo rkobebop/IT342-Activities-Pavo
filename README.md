@@ -1,10 +1,21 @@
 # IT342-G7-GitActivity
 
+
+Name: Kent Jose F. Bausin
+Course&Year: BSIT-3
+
+**In carnage i bloom like a flower in the dawn**
+
+Name: Francis Nino B. Yap
+Course&Year: BSIT 3
+
+I am genderly challenged
+
 Name: Louie James F. Carbungco  
 Course&Year: BSIT-2
 
 "Shared sorrow is half the sorrow; shared joy is double the joy."
-=======
+
 
 # IT342-G7-GitActivity
 
@@ -128,8 +139,8 @@ Course & Year: BSIT-3
 
 
 
-
-
+Name: Frederick Revilleza Jr.  
+Course&Year: BSIT-4  
 
 
 Name: Frederick Revilleza Jr.  
