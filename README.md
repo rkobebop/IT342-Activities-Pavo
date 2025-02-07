@@ -5,6 +5,14 @@ Course & Year: BSIT - 3
 
 Never give up
 
+
+## Name: John Wayne M. Largo
+**Course & Year:** BSIT-3
+
+### About Me
+> "Sleep is my superpower—recharging for another day of possibilities."
+
+
 Name: Yoshinori L. Kyono Jr.  
 Course&Year: BSIT - 3
 
