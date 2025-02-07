@@ -5,6 +5,12 @@ Course&Year: BSIT-3
   
 "Through hardwork and dedication you can do anything."
 
+## Name: John Wayne M. Largo
+**Course & Year:** BSIT-3
+
+### About Me
+> "Sleep is my superpower—recharging for another day of possibilities."
+
 Name: Yoshinori L. Kyono Jr.  
 Course&Year: BSIT - 3
 
