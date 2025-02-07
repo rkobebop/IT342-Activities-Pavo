@@ -65,6 +65,13 @@ Course&Year: BSIT - 3
 it is what it is
 ***
 
+Name: Rigel Baltazar  
+Course&Year: BSIT-3  
+  
+  
+"Sometimes... Life is just unfair...."
+
+
 ## Name: John Wayne M. Largo
 **Course & Year:** BSIT-3
 
