@@ -21,6 +21,14 @@ Course&Year: BSIT-2
 4554657658678976977
 
 
+# IT342-G7-GitActivity
+
+Name: Joshua Jamisola  
+Course&Year: BSIT-3
+
+I am who I am
+
+
 # IT342-G7-GitActivitygit 
 
 Name: Abram John R. Hortezano  
@@ -117,6 +125,8 @@ Name: Raven King O. Pavo
 Course & Year: BSIT-3
 
 "*Insert Quote Here*"
+
+
 
 
 
